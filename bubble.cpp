@@ -35,7 +35,7 @@ void displayArray(const vector<int>& arr) {
     cout << endl;
 }
 
-int main() {
+
     vector<int> arr = {64, 34, 25, 12, 22, 11, 90};
     
     cout << "Original array: ";
@@ -46,4 +46,5 @@ int main() {
     cout << "Sorted array: ";
     displayArray(arr);
     
+    return 0;
 }

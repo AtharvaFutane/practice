@@ -47,5 +47,4 @@ int main() {
     displayArray(arr);
     
     return 0;
-    // atharva chutiya hai
 }

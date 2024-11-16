@@ -46,5 +46,5 @@ int main() {
     cout << "Sorted array: ";
     displayArray(arr);
     
-    return 0;
+    return o;
 }

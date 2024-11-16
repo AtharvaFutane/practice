@@ -43,8 +43,7 @@ int main() {
     
     bubbleSort(arr);  // Sort the array
     
-    cout << "Sorted array: ";
-    displayArray(arr);
+   
     
-    return o;
+    
 }
